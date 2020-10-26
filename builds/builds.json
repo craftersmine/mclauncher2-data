@@ -1,0 +1,24 @@
+{
+    "builds": {
+        "id-zinc": {
+            "version": 1,
+            "mcVersion": "1.12.2",
+            "name": "Zinc",
+            "core": "https://example.com/zinc/core.zip",
+            "patches": [
+                "https://example.com/zinc/patch1.zip",
+                "https://example.com/zinc/patch1.zip"
+            ]
+        },
+        "id-hydrogen": {
+            "version": 1,
+            "mcVersion": "1.7.10",
+            "name": "Hydrogen",
+            "core": "https://example.com/hydrogen/core.zip",
+            "patches": [
+                "https://example.com/hydrogen/patch1.zip",
+                "https://example.com/hydrogen/patch1.zip"
+            ]
+        }
+    }
+}
