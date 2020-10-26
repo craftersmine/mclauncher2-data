@@ -26,7 +26,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 
 <Builds>
-	<Build id="id-zinc">
+	<Build>
+		<Id>id-zinc</Id>
 		<MCVersion>1.12.2</MCVersion>
 		<Name>Zinc</Name>
 		<Core>https://example.com/zinc/core.zip</Core>
@@ -35,7 +36,8 @@
 			<Patch>https://example.com/zinc/patch2.zip</Patch>
 		</Patches>
 	</Build>
-	<Build id="id-hydrogen">
+	<Build>
+		<Id>id-hydrogen</Id>
 		<MCVersion>1.12.2</MCVersion>
 		<Name>Hydrogen</Name>
 		<Core>https://example.com/hydrogen/core.zip</Core>
