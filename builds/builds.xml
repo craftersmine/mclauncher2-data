@@ -1,4 +1,4 @@
-{
+<!--{
     "builds": {
         "id-zinc": {
             "version": 1,
@@ -21,4 +21,27 @@
             ]
         }
     }
-}
+}-->
+
+<?xml version="1.0" encoding="utf-16"?>
+
+<Builds>
+	<Build id="id-zinc">
+		<MCVersion>1.12.2</MCVersion>
+		<Name>Zinc</Name>
+		<Core>https://example.com/zinc/core.zip</Core>
+		<Patches>
+			<Patch>https://example.com/zinc/patch1.zip</Patch>
+			<Patch>https://example.com/zinc/patch2.zip</Patch>
+		</Patches>
+	</Build>
+	<Build id="id-hydrogen">
+		<MCVersion>1.12.2</MCVersion>
+		<Name>Hydrogen</Name>
+		<Core>https://example.com/hydrogen/core.zip</Core>
+		<Patches>
+			<Patch>https://example.com/hydrogen/patch1.zip</Patch>
+			<Patch>https://example.com/hydrogen/patch2.zip</Patch>
+		</Patches>
+	</Build>
+</Builds>
