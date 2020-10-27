@@ -1,0 +1,12 @@
+[
+	{
+		"version": "1.12.2",
+		"assets": "https://example.com/minecraft/1.12.2/assets.zip",
+		"core": "https://example.com/minecraft/1.12.2/core.zip"
+	},
+	{
+		"version": "1.12.2",
+		"assets": "https://example.com/minecraft/1.7.10/assets.zip",
+		"core": "https://example.com/minecraft/1.7.10/core.zip"
+	}
+]
