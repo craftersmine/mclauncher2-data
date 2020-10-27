@@ -3,10 +3,9 @@
         "id": "id-zinc",
         "mcVersion": "1.12.2",
         "name": "Zinc",
-        "core": "https://example.com/zinc/core.zip",
+        "core": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdG9TdkhhOElqSE5uendRVG5nUjFNUUh1c09MP2U9alNEQ2h2/root/content",
         "patches": [
-            "https://example.com/zinc/patch1.zip",
-            "https://example.com/zinc/patch1.zip"
+            "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdG9TdkhhOElqSE5uejJxRjZYM2VoRVBFaWRpP2U9cTFETzBM/root/content"
         ]
     },
     {

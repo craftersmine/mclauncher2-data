@@ -1,8 +1,8 @@
 [
 	{
 		"version": "1.12.2",
-		"assets": "https://example.com/minecraft/1.12.2/assets.zip",
-		"core": "https://example.com/minecraft/1.12.2/core.zip"
+		"assets": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdG9TdkhhOElqSE5uejRGQmNiYWxDUmgxTjg3P2U9YVVUMzVW/root/content",
+		"core": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdG9TdkhhOElqSE5uejgwWUpUcllqQ3A5am5lP2U9ajNBaTVr/root/content"
 	},
 	{
 		"version": "1.7.10",
