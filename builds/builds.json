@@ -5,17 +5,9 @@
         "name": "Zinc",
         "core": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdG9TdkhhOElqSE5uendRVG5nUjFNUUh1c09MP2U9alNEQ2h2/root/content",
         "patches": [
-            "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdG9TdkhhOElqSE5uejJxRjZYM2VoRVBFaWRpP2U9cTFETzBM/root/content"
-        ]
-    },
-    {
-        "id": "id-hydrogen",
-        "mcVersion": "1.7.10",
-        "name": "Hydrogen",
-        "core": "https://example.com/hydrogen/core.zip",
-        "patches": [
-            "https://example.com/hydrogen/patch1.zip",
-            "https://example.com/hydrogen/patch1.zip"
+            { 
+				"1": "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdG9TdkhhOElqSE5uejJxRjZYM2VoRVBFaWRpP2U9cTFETzBM/root/content"
+			}
         ]
     }
 ]
